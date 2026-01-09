@@ -1,0 +1,26 @@
+{
+  "siteName": "First Christian Academy",
+  "defaultSeo": {
+    "title": "First Christian Academy | FCA Falcons",
+    "description": "A Christ-centered academy serving families with strong academics, athletics, and student life."
+  },
+  "primaryLocation": {
+    "name": "First Christian Academy",
+    "address1": "123 Falcons Way",
+    "address2": "Suite 100",
+    "city": "Montgomery",
+    "region": "AL",
+    "postalCode": "36117",
+    "country": "US",
+    "phone": "+1-334-555-0123",
+    "email": "info@fcafalcons.org",
+    "geo": {
+      "lat": 32.366,
+      "lng": -86.3
+    }
+  },
+  "sameAs": [
+    "https://www.facebook.com",
+    "https://www.instagram.com"
+  ]
+}

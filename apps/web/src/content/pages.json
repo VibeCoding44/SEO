@@ -1,0 +1,349 @@
+[
+  {
+    "title": "Home",
+    "slug": [],
+    "seo": {
+      "title": "First Christian Academy | FCA Falcons",
+      "description": "Welcome to First Christian Academy. Explore academics, admissions, student life, and more."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Developing faith-filled leaders",
+        "subtitle": "Christ-centered education with strong academics, thriving athletics, and a vibrant student life.",
+        "ctaLabel": "Request a Tour",
+        "ctaHref": "/admissions/request-a-tour"
+      },
+      {
+        "_type": "moduleStats",
+        "title": "FCA by the numbers",
+        "stats": [
+          { "label": "Average class size", "value": "16" },
+          { "label": "AP + dual enrollment courses", "value": "18" },
+          { "label": "Athletic programs", "value": "12" },
+          { "label": "Clubs and enrichment", "value": "20+" }
+        ]
+      },
+      {
+        "_type": "moduleCardsGrid",
+        "title": "Explore FCA",
+        "cards": [
+          {
+            "title": "Admissions",
+            "description": "Learn about our application process, tuition, and tours.",
+            "href": "/admissions"
+          },
+          {
+            "title": "Academics",
+            "description": "From early education to college prep, see our programs.",
+            "href": "/academics"
+          },
+          {
+            "title": "Student Life",
+            "description": "Discover clubs, chapel, service, and campus community.",
+            "href": "/student-life"
+          }
+        ]
+      },
+      {
+        "_type": "moduleTestimonials",
+        "title": "What families say",
+        "items": [
+          {
+            "quote": "FCA has been the perfect balance of faith and academics for our family.",
+            "name": "The Harris Family",
+            "role": "Parents"
+          },
+          {
+            "quote": "The teachers truly know our kids and care about their growth.",
+            "name": "Maya T.",
+            "role": "Class of 2026"
+          }
+        ]
+      },
+      {
+        "_type": "moduleFAQ",
+        "title": "Admissions FAQ",
+        "items": [
+          {
+            "question": "What grades do you serve?",
+            "answer": "We serve students from Pre-K through 12th grade."
+          },
+          {
+            "question": "Do you offer campus tours?",
+            "answer": "Yes. Tours are available by appointment year-round."
+          },
+          {
+            "question": "Is financial aid available?",
+            "answer": "Need-based financial assistance is available for qualifying families."
+          }
+        ]
+      },
+      {
+        "_type": "moduleLogosStrip",
+        "title": "Trusted by our community",
+        "items": [
+          { "name": "AACS" },
+          { "name": "ACSI" },
+          { "name": "NCSAA" },
+          { "name": "School Choice" }
+        ]
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Ready to visit?",
+        "body": "Schedule a campus tour and meet our faculty and staff.",
+        "ctaLabel": "Request a Tour",
+        "ctaHref": "/admissions/request-a-tour"
+      }
+    ]
+  },
+  {
+    "title": "About FCA",
+    "slug": ["about-fca"],
+    "seo": {
+      "title": "About FCA",
+      "description": "Learn about our mission, leadership, and Christ-centered education."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "A mission rooted in faith",
+        "subtitle": "We partner with families to develop students spiritually, academically, and socially."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "First Christian Academy exists to provide a rigorous education grounded in biblical truth. Our faculty invests in each student so they can grow in wisdom, leadership, and service."
+      }
+    ]
+  },
+  {
+    "title": "Admissions",
+    "slug": ["admissions"],
+    "seo": {
+      "title": "Admissions",
+      "description": "Start your FCA admissions journey, explore tuition, and request a tour."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Admissions made simple",
+        "subtitle": "We are excited to walk with your family through the admissions process."
+      },
+      {
+        "_type": "moduleCardsGrid",
+        "title": "Admissions resources",
+        "cards": [
+          {
+            "title": "Tuition & Fees",
+            "description": "Review tuition, fees, and financial assistance.",
+            "href": "/admissions/tuition-fees"
+          },
+          {
+            "title": "Request a Tour",
+            "description": "Visit campus and experience FCA in person.",
+            "href": "/admissions/request-a-tour"
+          },
+          {
+            "title": "Admissions FAQ",
+            "description": "Find answers to common questions.",
+            "href": "/admissions/faq"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tuition & Fees",
+    "slug": ["admissions", "tuition-fees"],
+    "seo": {
+      "title": "Tuition & Fees",
+      "description": "Learn about tuition rates, fees, and financial assistance."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Tuition & Fees",
+        "subtitle": "We are committed to partnering with families through transparent tuition."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Detailed tuition and fee schedules will be listed here, along with information on financial aid and scholarships."
+      }
+    ]
+  },
+  {
+    "title": "Request a Tour",
+    "slug": ["admissions", "request-a-tour"],
+    "seo": {
+      "title": "Request a Tour",
+      "description": "Schedule a tour and meet the FCA community."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Request a Tour",
+        "subtitle": "We would love to show you our campus."
+      },
+      {
+        "_type": "moduleRequestTourForm"
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Schedule your tour",
+        "body": "Reach out today and we will help you find the best time to visit.",
+        "ctaLabel": "Contact Admissions",
+        "ctaHref": "/contact"
+      }
+    ]
+  },
+  {
+    "title": "Admissions FAQ",
+    "slug": ["admissions", "faq"],
+    "seo": {
+      "title": "Admissions FAQ",
+      "description": "Answers to your most common admissions questions."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Admissions FAQ",
+        "subtitle": "Find the answers you need before applying."
+      },
+      {
+        "_type": "moduleFAQ",
+        "title": "Frequently asked questions",
+        "items": [
+          {
+            "question": "When should we apply?",
+            "answer": "Applications are accepted year-round. Priority consideration is given to early submissions."
+          },
+          {
+            "question": "Do you have entry testing?",
+            "answer": "Yes. We use age-appropriate assessments to ensure students receive the support they need."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Summer Enrichment",
+    "slug": ["admissions", "summer-enrichment"],
+    "seo": {
+      "title": "Summer Enrichment",
+      "description": "Explore summer programs that keep students engaged."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Summer Enrichment",
+        "subtitle": "Keep learning going strong with FCA summer programs."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Summer camps and enrichment experiences will be listed here."
+      }
+    ]
+  },
+  {
+    "title": "Academics",
+    "slug": ["academics"],
+    "seo": {
+      "title": "Academics",
+      "description": "Explore FCA academics from early education through high school."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Academics",
+        "subtitle": "A rigorous, faith-based curriculum designed to help students thrive."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "We offer a comprehensive academic program with advanced coursework, electives, and individualized support."
+      }
+    ]
+  },
+  {
+    "title": "Student Life",
+    "slug": ["student-life"],
+    "seo": {
+      "title": "Student Life",
+      "description": "See how students grow through clubs, chapel, and service."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Student Life",
+        "subtitle": "Community, service, and leadership opportunities for every student."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "From clubs to chapel to community service, FCA students build friendships and character."
+      }
+    ]
+  },
+  {
+    "title": "Athletics",
+    "slug": ["athletics"],
+    "seo": {
+      "title": "Athletics",
+      "description": "Falcons athletics build teamwork, discipline, and resilience."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Athletics",
+        "subtitle": "Competitive programs that develop character and teamwork."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "We offer a range of athletic programs for student-athletes across multiple seasons."
+      }
+    ]
+  },
+  {
+    "title": "Contact",
+    "slug": ["contact"],
+    "seo": {
+      "title": "Contact FCA",
+      "description": "Get in touch with FCA admissions and schedule a visit."
+    },
+    "modules": [
+      {
+        "_type": "moduleHero",
+        "title": "Contact us",
+        "subtitle": "We are here to answer your questions and help you plan a visit."
+      },
+      {
+        "_type": "moduleLocation",
+        "title": "Our campus"
+      },
+      {
+        "_type": "moduleMapEmbed",
+        "title": "Find us",
+        "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444.0941505160324!2d-86.3009083!3d32.3668059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x888e82c0a2aee3d1%3A0x79a4a46e6cc8ef9a!2sMontgomery%2C%20AL!5e0!3m2!1sen!2sus!4v1710000000000"
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Call or email us with questions about admissions, academics, or athletics. We look forward to meeting you."
+      },
+      {
+        "_type": "moduleGallery",
+        "title": "Campus moments",
+        "items": [
+          { "alt": "Students in the classroom", "imageUrl": "https://placehold.co/600x400" },
+          { "alt": "Athletics team huddle", "imageUrl": "https://placehold.co/600x400" },
+          { "alt": "Campus chapel", "imageUrl": "https://placehold.co/600x400" }
+        ]
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Plan a visit",
+        "body": "Let us know how we can help and we will follow up quickly.",
+        "ctaLabel": "Request a Tour",
+        "ctaHref": "/admissions/request-a-tour"
+      }
+    ]
+  }
+]
