@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const navItems = [
   { label: "About", href: "/about-fca" },
   { label: "Admissions", href: "/admissions" },
@@ -11,11 +13,18 @@ export default function Header() {
   return (
     <header className="border-b border-zinc-200 bg-white">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-5">
-        <a
-          className="text-lg font-semibold tracking-tight text-zinc-900"
-          href="/"
-        >
-          FCA Falcons
+        <a className="flex items-center gap-3" href="/">
+          <Image
+            src="/images/logo.png"
+            alt="Faith Christian Academy of Plant City"
+            width={52}
+            height={52}
+            className="h-12 w-12 object-contain"
+            priority
+          />
+          <span className="text-lg font-semibold tracking-tight text-zinc-900">
+            Faith Christian Academy
+          </span>
         </a>
         <nav className="hidden flex-wrap gap-4 text-sm font-medium text-zinc-700 md:flex">
           {navItems.map((item) => (

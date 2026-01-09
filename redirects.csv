@@ -1,9 +1,11 @@
 from,to
 /admissions/contact.cfm,/contact
-/admissions/tuition.cfm,/admissions/tuition-fees
-/admissions/requesttour.cfm,/admissions/request-a-tour
-/admissions/faq.cfm,/admissions/faq
-/admissions/summer.cfm,/admissions/summer-enrichment
+/admissions/tuition-fees.cfm,/admissions/tuition-fees
+/admissions/request-a-tour.cfm,/admissions/request-a-tour
+/admissions/summer-enrichment-camp.cfm,/admissions/summer-enrichment-camp
+/admissions/faq-s.cfm,/admissions/faq-s
 /academics/programs.cfm,/academics
 /studentlife.cfm,/student-life
 /athletics/teams.cfm,/athletics
+/about-fca/main-academy.cfm,/about-fca
+/about-fca/contact-us.cfm,/contact

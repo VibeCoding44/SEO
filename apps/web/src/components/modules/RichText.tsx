@@ -5,7 +5,9 @@ export default function RichText({ body, align = "left" }: ModuleRichText) {
 
   return (
     <section className="mx-auto w-full max-w-4xl px-6 py-12">
-      <div className={`text-base leading-7 text-zinc-700 ${alignment}`}>
+      <div
+        className={`text-base leading-7 text-zinc-700 whitespace-pre-line ${alignment}`}
+      >
         {body}
       </div>
     </section>

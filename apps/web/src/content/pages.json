@@ -3,25 +3,36 @@
     "title": "Home",
     "slug": [],
     "seo": {
-      "title": "First Christian Academy | FCA Falcons",
-      "description": "Welcome to First Christian Academy. Explore academics, admissions, student life, and more."
+      "title": "Faith Christian Academy of Plant City - Plant City, FL",
+      "description": "Faith Christian Academy of Plant City delivers excellent Christian education with high standards of citizenship, honor, and honesty."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "Developing faith-filled leaders",
-        "subtitle": "Christ-centered education with strong academics, thriving athletics, and a vibrant student life.",
+        "title": "Faith Christian Academy of Plant City",
+        "subtitle": "To provide excellent Christian education to all of our students with the highest standards of citizenship, honor, and honesty.",
         "ctaLabel": "Request a Tour",
         "ctaHref": "/admissions/request-a-tour"
       },
       {
         "_type": "moduleStats",
-        "title": "FCA by the numbers",
+        "title": "Faith Christian Academy at a glance",
         "stats": [
-          { "label": "Average class size", "value": "16" },
-          { "label": "AP + dual enrollment courses", "value": "18" },
-          { "label": "Athletic programs", "value": "12" },
-          { "label": "Clubs and enrichment", "value": "20+" }
+          { "label": "Scholarships", "value": "$386K" },
+          { "label": "Graduation Rate", "value": "98%" }
+        ]
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "We strive for excellence. At the core of our school is Christ. We believe in a strong student reflecting the love of Christ, being discipled, and learning how to become a servant leader."
+      },
+      {
+        "_type": "moduleGallery",
+        "title": "Campus highlights",
+        "items": [
+          { "alt": "Faith Christian Academy campus", "imageUrl": "/images/campus-1.jpg" },
+          { "alt": "Students on campus", "imageUrl": "/images/campus-2.jpg" },
+          { "alt": "Learning at FCA", "imageUrl": "/images/campus-3.jpg" }
         ]
       },
       {
@@ -30,71 +41,37 @@
         "cards": [
           {
             "title": "Admissions",
-            "description": "Learn about our application process, tuition, and tours.",
+            "description": "Learn how to apply, review tuition, and schedule a tour.",
             "href": "/admissions"
           },
           {
             "title": "Academics",
-            "description": "From early education to college prep, see our programs.",
+            "description": "Discover rigorous, Christ-centered academics across every grade.",
             "href": "/academics"
           },
           {
             "title": "Student Life",
-            "description": "Discover clubs, chapel, service, and campus community.",
+            "description": "See how faith, community, and activities shape the FCA experience.",
             "href": "/student-life"
           }
         ]
       },
       {
-        "_type": "moduleTestimonials",
-        "title": "What families say",
-        "items": [
-          {
-            "quote": "FCA has been the perfect balance of faith and academics for our family.",
-            "name": "The Harris Family",
-            "role": "Parents"
-          },
-          {
-            "quote": "The teachers truly know our kids and care about their growth.",
-            "name": "Maya T.",
-            "role": "Class of 2026"
-          }
-        ]
-      },
-      {
-        "_type": "moduleFAQ",
-        "title": "Admissions FAQ",
-        "items": [
-          {
-            "question": "What grades do you serve?",
-            "answer": "We serve students from Pre-K through 12th grade."
-          },
-          {
-            "question": "Do you offer campus tours?",
-            "answer": "Yes. Tours are available by appointment year-round."
-          },
-          {
-            "question": "Is financial aid available?",
-            "answer": "Need-based financial assistance is available for qualifying families."
-          }
-        ]
-      },
-      {
         "_type": "moduleLogosStrip",
-        "title": "Trusted by our community",
+        "title": "Accreditation & Affiliations",
         "items": [
-          { "name": "AACS" },
-          { "name": "ACSI" },
-          { "name": "NCSAA" },
-          { "name": "School Choice" }
+          { "name": "Cognia", "imageUrl": "/images/accred_cognia.png" },
+          { "name": "LCS", "imageUrl": "/images/accred_lcs1.png" },
+          { "name": "LCS", "imageUrl": "/images/accred_lcs2.png" },
+          { "name": "LCS", "imageUrl": "/images/accred_lcs3.png" }
         ]
       },
       {
         "_type": "moduleCTA",
-        "title": "Ready to visit?",
-        "body": "Schedule a campus tour and meet our faculty and staff.",
-        "ctaLabel": "Request a Tour",
-        "ctaHref": "/admissions/request-a-tour"
+        "title": "Enroll Today",
+        "body": "Come see our campuses and learn how FCA serves families in Plant City.",
+        "ctaLabel": "Start Admissions",
+        "ctaHref": "/admissions"
       }
     ]
   },
@@ -102,18 +79,39 @@
     "title": "About FCA",
     "slug": ["about-fca"],
     "seo": {
-      "title": "About FCA",
-      "description": "Learn about our mission, leadership, and Christ-centered education."
+      "title": "About FCA | Faith Christian Academy of Plant City",
+      "description": "Learn about Faith Christian Academy of Plant City, our mission, and our commitment to Christ-centered education."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "A mission rooted in faith",
-        "subtitle": "We partner with families to develop students spiritually, academically, and socially."
+        "title": "About Faith Christian Academy",
+        "subtitle": "A Christ-centered school serving families in Plant City with excellence."
       },
       {
         "_type": "moduleRichText",
-        "body": "First Christian Academy exists to provide a rigorous education grounded in biblical truth. Our faculty invests in each student so they can grow in wisdom, leadership, and service."
+        "body": "Community\nWe love our community. Our passion is to make Plant City and surrounding areas a place where families can have a great educational experience with quality programming, inclusion in community events, and a sense of belonging. Between our efforts in participating in the local parades, local festivals, involvement with Kiwanis, choir and sports activities at local venues, FCA immerses our school in our community to allow all students a place to fit in."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Christianity\nFaith Christian Academy believes in being totally Christian. From the moment you arrive on campus you will experience the love of Christ. Our passion for teaching and ministering to our students provides an outlet for students to embrace their distinctive Christian beliefs and exhibit true discipleship of Christ."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Academics\nOur strong academic programming allows for all students to learn. Whether seeking dual enrollment with a local college or needing additional classroom support, we are here with you all the way. Our unique ability to help every student excel is why we offer strong accredited accomplishments in education."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Athletics\nFalcon Pride - that is what we have in our school. We offer full programming for sports and for athletes of all kinds. Starting in kindergarten with Cross Country all the way to Football, FCA offers several sports for your child to be involved in."
+      },
+      {
+        "_type": "moduleGallery",
+        "title": "Life at FCA",
+        "items": [
+          { "alt": "FCA community", "imageUrl": "/images/about-community.jpg" },
+          { "alt": "Christian education at FCA", "imageUrl": "/images/about-christianity.jpg" },
+          { "alt": "Academics at FCA", "imageUrl": "/images/about-academics.jpg" }
+        ]
       }
     ]
   },
@@ -121,14 +119,18 @@
     "title": "Admissions",
     "slug": ["admissions"],
     "seo": {
-      "title": "Admissions",
-      "description": "Start your FCA admissions journey, explore tuition, and request a tour."
+      "title": "Admissions | Faith Christian Academy of Plant City",
+      "description": "Explore admissions, tuition, tours, and summer enrichment at Faith Christian Academy of Plant City."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "Admissions made simple",
-        "subtitle": "We are excited to walk with your family through the admissions process."
+        "title": "Admissions",
+        "subtitle": "Come see our campuses and discover the FCA difference."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Let's Get Started.\nOur enrollment process at FCA is designed to ensure a smooth and personalized experience for every family. To get started, book a tour with our Enrollment Specialist, Ms. Nylah, to explore our campus and learn more about our programs. Next, schedule a financial advising meeting with Ms. Nia to discuss tuition and payment options. Once you are ready, complete the online application and submit the required documents along with a $200 registration fee. Students may also need to complete standardized testing for placement. Once all steps are completed, your child will officially become an FCA Falcon."
       },
       {
         "_type": "moduleCardsGrid",
@@ -136,20 +138,32 @@
         "cards": [
           {
             "title": "Tuition & Fees",
-            "description": "Review tuition, fees, and financial assistance.",
+            "description": "Review tuition, fees, and financial information.",
             "href": "/admissions/tuition-fees"
           },
           {
             "title": "Request a Tour",
-            "description": "Visit campus and experience FCA in person.",
+            "description": "Schedule a visit and meet our admissions team.",
             "href": "/admissions/request-a-tour"
           },
           {
-            "title": "Admissions FAQ",
-            "description": "Find answers to common questions.",
-            "href": "/admissions/faq"
+            "title": "FAQ's",
+            "description": "Answers to common admissions questions.",
+            "href": "/admissions/faq-s"
+          },
+          {
+            "title": "Summer Enrichment Camp",
+            "description": "Explore summer programs and enrichment opportunities.",
+            "href": "/admissions/summer-enrichment-camp"
           }
         ]
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Click here so we can contact you",
+        "body": "Submit an admissions inquiry and we will follow up with next steps.",
+        "ctaLabel": "Start Admissions Inquiry",
+        "ctaHref": "https://fcpc-fl.client.renweb.com/oa/inquiry.cfm?memberId=17359&districtCode=fcpc-fl"
       }
     ]
   },
@@ -157,18 +171,39 @@
     "title": "Tuition & Fees",
     "slug": ["admissions", "tuition-fees"],
     "seo": {
-      "title": "Tuition & Fees",
-      "description": "Learn about tuition rates, fees, and financial assistance."
+      "title": "Tuition & Fees | Faith Christian Academy of Plant City",
+      "description": "Learn about tuition and fee details at Faith Christian Academy of Plant City."
     },
     "modules": [
       {
         "_type": "moduleHero",
         "title": "Tuition & Fees",
-        "subtitle": "We are committed to partnering with families through transparent tuition."
+        "subtitle": "Tuition resources for FCA families."
       },
       {
         "_type": "moduleRichText",
-        "body": "Detailed tuition and fee schedules will be listed here, along with information on financial aid and scholarships."
+        "body": "Please click on the links below for current tuition and rates for the Main Academy and Falcon Academy. For financial information and aid, schedule a financial advising meeting."
+      },
+      {
+        "_type": "moduleCardsGrid",
+        "title": "Tuition resources",
+        "cards": [
+          {
+            "title": "2025-2026 Main Academy Tuition and Rates",
+            "description": "Download the PDF for main academy tuition and fees.",
+            "href": "https://www.fcafalcons.org/editoruploads/files/FCA%202025-2026%20Students%20Tuition%20and%20Fees_docx%20(1).pdf"
+          },
+          {
+            "title": "2025-2026 Falcon Academy Tuition and Rates",
+            "description": "Download the PDF for Falcon Academy tuition and fees.",
+            "href": "https://www.fcafalcons.org/editoruploads/files/Falcon%20Academy%202025-2026%20Students%20Tuition%20and%20Fees.docx.pdf"
+          },
+          {
+            "title": "Financial Aid Information",
+            "description": "Schedule a financial aid conversation.",
+            "href": "https://calendly.com/nia-williams-2"
+          }
+        ]
       }
     ]
   },
@@ -176,72 +211,134 @@
     "title": "Request a Tour",
     "slug": ["admissions", "request-a-tour"],
     "seo": {
-      "title": "Request a Tour",
-      "description": "Schedule a tour and meet the FCA community."
+      "title": "Request a Tour | Faith Christian Academy of Plant City",
+      "description": "Schedule a campus tour and meet the FCA admissions team."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "Request a Tour",
-        "subtitle": "We would love to show you our campus."
+        "title": "Come See Our Campuses",
+        "subtitle": "We are excited to show you around FCA and answer your questions."
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "Welcome to Faith Christian Academy of Plant City. We are excited that you have selected our school and desire to be part of the Falcon Family. Your child will need to be present for this tour. Our admin team will love to meet them. Please book your tour so we can accommodate you properly. Thank you and see you soon. God bless."
       },
       {
         "_type": "moduleRequestTourForm"
       },
       {
         "_type": "moduleCTA",
-        "title": "Schedule your tour",
-        "body": "Reach out today and we will help you find the best time to visit.",
-        "ctaLabel": "Contact Admissions",
-        "ctaHref": "/contact"
+        "title": "Book your tour",
+        "body": "Use our tour scheduling link to reserve your visit.",
+        "ctaLabel": "Click Here to get you started",
+        "ctaHref": "https://calendly.com/nylah-williams-admissions-specialist"
       }
     ]
   },
   {
-    "title": "Admissions FAQ",
-    "slug": ["admissions", "faq"],
+    "title": "FAQ's",
+    "slug": ["admissions", "faq-s"],
     "seo": {
-      "title": "Admissions FAQ",
-      "description": "Answers to your most common admissions questions."
+      "title": "Admissions FAQ | Faith Christian Academy of Plant City",
+      "description": "Get answers to common admissions questions at Faith Christian Academy of Plant City."
     },
     "modules": [
       {
         "_type": "moduleHero",
         "title": "Admissions FAQ",
-        "subtitle": "Find the answers you need before applying."
+        "subtitle": "Answers to common questions from FCA families."
       },
       {
         "_type": "moduleFAQ",
         "title": "Frequently asked questions",
         "items": [
           {
-            "question": "When should we apply?",
-            "answer": "Applications are accepted year-round. Priority consideration is given to early submissions."
+            "question": "What curriculum is used to teach reading in the lower grades?",
+            "answer": "We utilize Abeka and Deep Roots curriculum in K through 5th grade. We utilize Abeka, BJU, Purposeful Design and Cengage curriculum in 6th through 12th grade."
           },
           {
-            "question": "Do you have entry testing?",
-            "answer": "Yes. We use age-appropriate assessments to ensure students receive the support they need."
+            "question": "Do you have an extended care? What are extended care hours?",
+            "answer": "Faith Christian Academy offers extended care for all ages. Hours are from 7:00 AM until school begins in the mornings and from the release of students from classes until 6:00 PM in the afternoons."
+          },
+          {
+            "question": "What special classes are available for elementary students?",
+            "answer": "In addition to the normal academic classes, FCA provides opportunity for children in grades Kindergarten through 12th grade to participate in music classes, physical education, computer v1.1 classes, art, library and Spanish."
+          },
+          {
+            "question": "Describe the spiritual life of the school.",
+            "answer": "The Christian in Faith Christian Academy is key to the mission of the school. FCA is committed to providing a Christian atmosphere for the total growth of the individual student. Each student attends Bible classes daily and chapel services weekly, designed to apply the truth of Christ's message to daily challenges. Faculty and staff are committed Christians partnering with parents in student formation."
+          },
+          {
+            "question": "What are the demographics of the school population?",
+            "answer": "Faith Christian Academy embraces the diversity of the community in which it is situated. The school does not discriminate on the basis of race, color, national and ethnic origin in the administration of its educational policies, admission policies, scholarship and loan programs, and athletic and other school-administered programs."
+          },
+          {
+            "question": "What are the qualifications of the teachers?",
+            "answer": "All full time teachers must have earned a bachelors degree from an accredited college or university and be certified by the State of Florida or by FCA's accrediting agency, the Association of Christian Schools International. All teachers must be born again Christians and demonstrate a vibrant relationship with God."
+          },
+          {
+            "question": "What are the school hours?",
+            "answer": "Classes begin at 8:00 AM. Lower Level (K through 5th Grade) release at 2:55 PM. Upper Level (6th through 12th Grade) release at 3:00 PM. After school care is available from 3:15 PM until 6:00 PM. Offices are open from 7:30 AM until 4:00 PM."
+          },
+          {
+            "question": "Please describe the school lunch program.",
+            "answer": "FCA provides items for purchase for lunch for students in grades K through 12th. The school contracts with an outside company to supply items that meet state guidelines. A product price list is posted in the lunchroom area and flyer in the main office."
+          },
+          {
+            "question": "What is the student/teacher ratio in the various grades?",
+            "answer": "For K through 5th students, the maximum ratio is 1 teacher for every 18 students. For 6th through 8th students, the maximum ratio is 1 teacher for every 22 students. For 9th through 12th students, the maximum ratio is 1 teacher for every 25 students."
+          },
+          {
+            "question": "How does your school rank with other schools in the area?",
+            "answer": "FCA compares favorably with any school in the Southeast Hillsborough County area. Faith students, on average, test one to two grade levels above their contemporaries in public school, and achievement tests indicate FCA students score better than 70% of students in other private Christian schools."
+          },
+          {
+            "question": "Is there a dress code?",
+            "answer": "FCA is a uniform school. All students are required to purchase and wear a uniform each day. Uniforms enhance the environment by creating an atmosphere of learning and professionalism and increase campus security by allowing faculty and staff to instantly recognize those who are not enrolled in school."
           }
         ]
       }
     ]
   },
   {
-    "title": "Summer Enrichment",
-    "slug": ["admissions", "summer-enrichment"],
+    "title": "Summer Enrichment Camp",
+    "slug": ["admissions", "summer-enrichment-camp"],
     "seo": {
-      "title": "Summer Enrichment",
-      "description": "Explore summer programs that keep students engaged."
+      "title": "Summer Enrichment Camp | Faith Christian Academy of Plant City",
+      "description": "Explore summer enrichment opportunities for FCA students."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "Summer Enrichment",
-        "subtitle": "Keep learning going strong with FCA summer programs."
+        "title": "Summer Enrichment Camp",
+        "subtitle": "Keep learning strong all summer at FCA."
       },
       {
         "_type": "moduleRichText",
-        "body": "Summer camps and enrichment experiences will be listed here."
+        "body": "Summer Enrichment Camp from June 2 - July 18, 2025\nParents Asked - FCA Delivered\n8:30 a.m. - 6 p.m.\nRegistration $50 / Summer Tuition $450\n1st Payment Due: June 2nd, 2025\n2nd Payment Due: July 1st, 2025"
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Summer Enrichment Application 2025",
+        "body": "Apply for the FCA Summer Enrichment Camp.",
+        "ctaLabel": "Apply Now",
+        "ctaHref": "https://fcpc-fl.client.renweb.com/oa/?memberid=17359"
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "We are excited to offer bus transportation for the 2025 Summer Camp at Faith Christian Academy. This is a convenient and safe option for families in Plant City who need reliable transportation for their child to and from camp each day.\n\nTransportation Details:\nCost: $250 for the entire summer\nService Dates: June 9 - July 18, 2025\nPickup/Drop-Off: Your child will be picked up no earlier than 7am and dropped off no later than 5pm directly at your home\n\nBus transportation will start on June 9th, 2025. Seats are limited and will be filled on a first-come, first-served basis."
+      },
+      {
+        "_type": "moduleCTA",
+        "title": "Summer camp transportation",
+        "body": "Reserve your transportation spot.",
+        "ctaLabel": "Sign Up for Transportation",
+        "ctaHref": "https://docs.google.com/forms/d/e/1FAIpQLSeor8cpOOJ5lVTqeYNm9zVgqM-pdMTpex33mldHDkJcAoi7_w/viewform?pli=1"
+      },
+      {
+        "_type": "moduleRichText",
+        "body": "We believe in being an asset to our community. FCA Summer Enrichment is open to children rising grades K-8 from our school and the surrounding Plant City area. We offer field trips, t-shirts, meals and snacks, daily included in the price. So why not enroll?"
       }
     ]
   },
@@ -249,18 +346,18 @@
     "title": "Academics",
     "slug": ["academics"],
     "seo": {
-      "title": "Academics",
-      "description": "Explore FCA academics from early education through high school."
+      "title": "Academics | Faith Christian Academy of Plant City",
+      "description": "Faith Christian Academy offers rigorous academics rooted in Christian values."
     },
     "modules": [
       {
         "_type": "moduleHero",
         "title": "Academics",
-        "subtitle": "A rigorous, faith-based curriculum designed to help students thrive."
+        "subtitle": "We deliver quality education grounded in faith."
       },
       {
         "_type": "moduleRichText",
-        "body": "We offer a comprehensive academic program with advanced coursework, electives, and individualized support."
+        "body": "Classrooms using the Abeka materials and methods are well-organized, highly efficient, interesting, and challenging classrooms. Their purpose is not socialization, self-awareness, self-gratification, democratization, or adjustment to environment. Their purpose is to educate students in the Bible, language, subject matter, and character.\n\nThe teachers do not teach character in an abstract, separate way. Rather, character is taught through consistent discipline; the teaching of traditional subject matter; reading from the great literature of the world; teaching the great characters of history that are worth emulating; and teaching traditional math, grammar, etc., in a disciplined, traditional way. Character training is seen as training children to do right because it is right to do right, not as encouraging children to concentrate on their feelings, needs, conflicts, and attitudes. Right character training leads a child to forget himself, not to concentrate on himself.\n\nThe students do not determine the curriculum, the pacing, the discipline, or the methods. These decisions are made by the teacher, who is a confident, well-trained, eager, willing servant of the Lord, working on the premise that a job worth doing is worth doing well and that in the education of children as well as in all of life, time is to be redeemed and every minute counts. Teachers using Abeka materials and methods are in control of the situation. They know that they are the teachers and that the students are the learners. They know what students need to learn, and they do not hesitate to teach facts and drill facts in order that the facts may be remembered. They do not accept the existential philosophy that we cannot know anything for sure and that there is no real meaning to life and that thus each individual must make his own meaning in his own way. If classroom teachers accept this philosophy, they would have no confidence in drilling facts and no basis for their claim to authority as teachers."
       }
     ]
   },
@@ -268,18 +365,59 @@
     "title": "Student Life",
     "slug": ["student-life"],
     "seo": {
-      "title": "Student Life",
-      "description": "See how students grow through clubs, chapel, and service."
+      "title": "Student Life | Faith Christian Academy of Plant City",
+      "description": "Discover student life, community, and character development at FCA."
     },
     "modules": [
       {
         "_type": "moduleHero",
         "title": "Student Life",
-        "subtitle": "Community, service, and leadership opportunities for every student."
+        "subtitle": "Faith, community, and leadership opportunities for every student."
       },
       {
         "_type": "moduleRichText",
-        "body": "From clubs to chapel to community service, FCA students build friendships and character."
+        "body": "At Faith Christian Academy, student life is enriched through various programs and resources designed to support a well-rounded school experience. Our uniform policy ensures a sense of unity and professionalism among students, with all necessary details available through our uniform provider. The School Spirit Store allows students and families to show their FCA pride with branded apparel and accessories. Leadership opportunities abound with our Student Council, where students can actively participate in school events and decision-making. To help families stay organized, we provide a Student Calendar and a School Calendar, outlining important dates, events, and academic schedules throughout the year. Additionally, our School Supply List ensures that students are fully prepared for success in the classroom by providing a comprehensive list of required materials. Don't forget our PTO as well; there are so many family fun events taking place all school year. These elements of student life contribute to a vibrant and engaging school experience for all FCA students."
+      },
+      {
+        "_type": "moduleCardsGrid",
+        "title": "Student life resources",
+        "cards": [
+          {
+            "title": "Family Parent Portal",
+            "description": "Access student information and resources.",
+            "href": "https://www.fcafalcons.org/student-life/family-parent-portal.cfm"
+          },
+          {
+            "title": "25-26 Student Calendar",
+            "description": "View the student calendar for the school year.",
+            "href": "https://www.fcafalcons.org/student-life/25-26-student-calendar.cfm"
+          },
+          {
+            "title": "School Uniforms",
+            "description": "Uniform guidelines and provider details.",
+            "href": "https://www.fcafalcons.org/student-life/school-uniforms.cfm"
+          },
+          {
+            "title": "School Spirit Store",
+            "description": "Shop FCA branded apparel and accessories.",
+            "href": "https://www.fcafalcons.org/student-life/school-spirit-store.cfm"
+          },
+          {
+            "title": "School Supply List",
+            "description": "K-12th grade school supply list.",
+            "href": "https://www.fcafalcons.org/student-life/k-12th-grade-school-supply-list.cfm"
+          },
+          {
+            "title": "Parent-Student Handbook",
+            "description": "Review the 2025-2026 handbook.",
+            "href": "https://www.fcafalcons.org/student-life/2025-2026-parent-student-handbook.cfm"
+          },
+          {
+            "title": "PTO Team",
+            "description": "Connect with the PTO team and events.",
+            "href": "https://www.fcafalcons.org/student-life/pto-team.cfm"
+          }
+        ]
       }
     ]
   },
@@ -287,18 +425,18 @@
     "title": "Athletics",
     "slug": ["athletics"],
     "seo": {
-      "title": "Athletics",
+      "title": "Athletics | Faith Christian Academy of Plant City",
       "description": "Falcons athletics build teamwork, discipline, and resilience."
     },
     "modules": [
       {
         "_type": "moduleHero",
         "title": "Athletics",
-        "subtitle": "Competitive programs that develop character and teamwork."
+        "subtitle": "Falcons athletics build teamwork, discipline, and resilience."
       },
       {
         "_type": "moduleRichText",
-        "body": "We offer a range of athletic programs for student-athletes across multiple seasons."
+        "body": "FCA Falcons Athletics Programs\nCross Country (Grades K-12, Male, Female)\nVolleyball (Grades 3-12, Female)\nFlag Football (Grades 3-12, Male, Female, Co-ed)\nSoccer (Grades 3-12, Male, Female, Co-ed)\nBasketball (Grades 3-12, Male, Female, Co-ed)\nBowling (Grades 7-12, Male, Female, Co-ed)\nCheer-leading (Grades 3-12, Female)\n\nIn order to cater to the athletic needs of our student body while participating in a Christ-centered sport environment, FCA is a member of the following leagues:\nMFAC (Grades 7-12): All FCA Varsity sports compete in the Mid-Florida Athletic Conference (CFAC) and follow MFAC rules and regulations.\nTBCAL (K-8): FCA participates in the Tampa Bay Christian Athletic League, offering competition for elementary and middle school teams including Cross Country for K-2nd graders. FCA Athletics adheres to respective league governing rules.\n\nAll athletes must maintain a 2.0 grade point average with no F's in any core subject to be eligible for participation. Athletics forms are required for all student-athletes."
       }
     ]
   },
@@ -306,14 +444,14 @@
     "title": "Contact",
     "slug": ["contact"],
     "seo": {
-      "title": "Contact FCA",
-      "description": "Get in touch with FCA admissions and schedule a visit."
+      "title": "Contact FCA | Faith Christian Academy of Plant City",
+      "description": "Contact Faith Christian Academy of Plant City for admissions and campus information."
     },
     "modules": [
       {
         "_type": "moduleHero",
-        "title": "Contact us",
-        "subtitle": "We are here to answer your questions and help you plan a visit."
+        "title": "Contact Us",
+        "subtitle": "Reach the FCA main office and admissions team."
       },
       {
         "_type": "moduleLocation",
@@ -322,25 +460,16 @@
       {
         "_type": "moduleMapEmbed",
         "title": "Find us",
-        "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444.0941505160324!2d-86.3009083!3d32.3668059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x888e82c0a2aee3d1%3A0x79a4a46e6cc8ef9a!2sMontgomery%2C%20AL!5e0!3m2!1sen!2sus!4v1710000000000"
+        "embedUrl": "https://www.google.com/maps?q=100+Falcons+Landing+Place+Plant+City+FL+33563&output=embed"
       },
       {
         "_type": "moduleRichText",
-        "body": "Call or email us with questions about admissions, academics, or athletics. We look forward to meeting you."
-      },
-      {
-        "_type": "moduleGallery",
-        "title": "Campus moments",
-        "items": [
-          { "alt": "Students in the classroom", "imageUrl": "https://placehold.co/600x400" },
-          { "alt": "Athletics team huddle", "imageUrl": "https://placehold.co/600x400" },
-          { "alt": "Campus chapel", "imageUrl": "https://placehold.co/600x400" }
-        ]
+        "body": "Main Office: 813.473.2090\nFax: 813.704.2757\nEmail: info@fcafalcons.org"
       },
       {
         "_type": "moduleCTA",
-        "title": "Plan a visit",
-        "body": "Let us know how we can help and we will follow up quickly.",
+        "title": "Ready to visit?",
+        "body": "Schedule a tour and experience FCA firsthand.",
         "ctaLabel": "Request a Tour",
         "ctaHref": "/admissions/request-a-tour"
       }

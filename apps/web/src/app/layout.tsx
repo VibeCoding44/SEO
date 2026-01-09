@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "First Christian Academy | FCA Falcons",
+  title: "Faith Christian Academy of Plant City - Plant City, FL",
   description:
-    "A Christ-centered academy serving families with strong academics, athletics, and student life.",
+    "Faith Christian Academy of Plant City delivers excellent Christian education with high standards of citizenship, honor, and honesty.",
 };
 
 export default function RootLayout({

@@ -1,26 +1,26 @@
 {
-  "siteName": "First Christian Academy",
+  "siteName": "Faith Christian Academy of Plant City",
   "defaultSeo": {
-    "title": "First Christian Academy | FCA Falcons",
-    "description": "A Christ-centered academy serving families with strong academics, athletics, and student life."
+    "title": "Faith Christian Academy of Plant City - Plant City, FL",
+    "description": "Faith Christian Academy of Plant City delivers excellent Christian education with high standards of citizenship, honor, and honesty."
   },
   "primaryLocation": {
-    "name": "First Christian Academy",
-    "address1": "123 Falcons Way",
-    "address2": "Suite 100",
-    "city": "Montgomery",
-    "region": "AL",
-    "postalCode": "36117",
+    "name": "Faith Christian Academy of Plant City",
+    "address1": "100 Falcons Landing Place",
+    "city": "Plant City",
+    "region": "FL",
+    "postalCode": "33563",
     "country": "US",
-    "phone": "+1-334-555-0123",
-    "email": "info@fcafalcons.org",
-    "geo": {
-      "lat": 32.366,
-      "lng": -86.3
-    }
+    "phone": "+18134732090",
+    "email": "info@fcafalcons.org"
   },
   "sameAs": [
-    "https://www.facebook.com",
-    "https://www.instagram.com"
+    "https://www.facebook.com/FaithChristianAcademyOfPlantCity?mibextid=LQQJ4d",
+    "https://x.com/fcapc?s=11&t=_ErbaH61mOIu_CKGTvDayA",
+    "https://www.instagram.com/fcapc1?igsh=OXJyOTh1c3RuZm5k",
+    "https://youtube.com/@faithchristian3207?si=ito1CBjVBSYT9ljj",
+    "https://www.linkedin.com/company/faith-christian-academy-of-plant-city",
+    "https://schoolsitefp.renweb.com/?districtCode=fcpc-fl",
+    "https://www.tiktok.com/@fcapc11?_t=8n90ETz9cH0&_r=1"
   ]
 }
